@@ -1,16 +1,16 @@
-# 🎮 DecentraLoot - Play-to-Earn Loot Box Game
+# DecentraLoot - Play-to-Earn Loot Box Game
 
-## 📌 Description
+## Description
 DecentraLoot is a blockchain-based Play-to-Earn game where players earn loot boxes and receive random rewards using on-chain randomness (Chainlink VRF).
 
-## 🚀 Features
-- 🎁 Loot box reward system
-- 🎲 Verifiable randomness (Chainlink VRF)
-- 🖼️ NFT rewards (ERC-721)
-- 💰 Token rewards (ERC-20)
-- 🔗 Web3 wallet integration
+## Features
+- Loot box reward system
+- Verifiable randomness (Chainlink VRF)
+- NFT rewards (ERC-721)
+- Token rewards (ERC-20)
+- Web3 wallet integration
 
-## 🛠️ Tech Stack
+## Tech Stack
 - Solidity
 - Hardhat
 - React.js
@@ -18,7 +18,7 @@ DecentraLoot is a blockchain-based Play-to-Earn game where players earn loot box
 - Chainlink VRF
 - IPFS
 
-## ⚙️ Installation
+## Installation
 
 ```bash
 git clone https://github.com/<your-username>/decentraloot-lootbox-game
